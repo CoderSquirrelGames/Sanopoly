@@ -1,0 +1,11 @@
+C:\Users\sane\Desktop\DG\Sanopoly\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\sane\Desktop\DG\Sanopoly\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\sane\Desktop\DG\Sanopoly\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\sane\Desktop\DG\Sanopoly\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\sane\Desktop\DG\Sanopoly\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\sane\Desktop\DG\Sanopoly\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\sane\Desktop\DG\Sanopoly\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\sane\Desktop\DG\Sanopoly\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\sane\Desktop\DG\Sanopoly\obj\Debug\UnityVS.Sanopoly.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\sane\Desktop\DG\Sanopoly\obj\Debug\Assembly-CSharp.dll
+C:\Users\sane\Desktop\DG\Sanopoly\obj\Debug\Assembly-CSharp.pdb
